@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background: url('./images/bakground.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: courier;
+}
+
+.profile-pic {
+    display: inline;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 10px;
+}
+
+p {
+    background-color: black;
+    padding: 10px;
+    margin: 90px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 22px;
+}
+
+input {
+    margin-top: 90px;
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+    color: white;
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+}
+
+body>input[type=submit]:nth-child(5) {
+    background: red;
+}
+
+img {
+    border: 100px;
+    border-color: black;
+    padding: 10px;
+
+}
