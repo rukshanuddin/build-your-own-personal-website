@@ -1,2 +1,6 @@
-# build your own personal website
+# Build Your Own Personal Website
+
+## General Assebly - DASH
+
+### Project 1
  
